@@ -21,7 +21,7 @@ sys.path.insert(0, SCRIPTS_PATH)
 
 from grid_map import *
 # from utils import *
-from aivot_utils import *
+# from aivot_utils import *
 
 P_prior = 0.5	# Prior occupancy probability
 P_occ = 0.9	    # Probability that cell is occupied with total confidence
